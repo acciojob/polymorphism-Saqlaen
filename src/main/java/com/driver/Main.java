@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args ){
         Product p  = new Product();
         p.product(10, 20);
-        p.product(10, 20, 30 );
         p.product(5.00, 7.00);
+        p.product(10, 20, 30 );
     }
 }
